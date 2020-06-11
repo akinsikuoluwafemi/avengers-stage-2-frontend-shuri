@@ -1,0 +1,56 @@
+body
+{
+	background-image:url(images/valeriia-bugaiova-_pPHgeHz1uk-unsplash.jpg);
+	 	background-size: 100%; background-repeat: no-repeat; margin: 0;
+	 
+
+}
+
+  
+				
+.menubar	{
+					 font-size: 16px; background-color: #fff; position: fixed; overflow: hidden; top: 0;  
+					padding:7px; text-align: right; font-family:calibri; height:50px; width: 100%;
+				}
+.menubar li
+		{ display:inline; }
+.menubar a
+			{text-decoration:none;  color: #d9b77b;
+			 margin-right:0.625em; text-align:right;padding:20px;
+			}
+.menubar a:hover
+			{ color:olive;
+			}
+
+.menubar a:active
+			{ color:olive; text-decoration: none;
+			}
+
+.form{
+    margin-left: auto; margin-top: 200px;
+    margin-right: auto;  font-family: calibri; padding-top: 15px; padding-bottom: 15px;
+    width: 50%;  border-radius: 25px; color: #d9b77b;
+    background-color: white; 
+}
+
+
+.shape{height: 5px; width: 100%;
+	 background-color: #f0f0f0;
+}
+
+.chat {
+margin:auto; text-align: center; font-family: calibri; color: #b0b0b0; font-size: 16px;
+
+}
+.chat2 {
+	width: 50%; text-align: center; border: solid 2px #d9b77b; color: #d9b77b; font-family: calibri;
+background-color: #fff; margin: auto; font-size: 20px; border-radius: 5px; padding: 10px;
+}
+
+.logo {width: 50%; float: left; margin-left: 100px;}
+.logo li{display: inline;}
+
+.footer{
+	height: 100px; width: 100%; background-color: black; margin-top: 20px; padding-top: 20px; text-align: right;
+	font-family: calibri;  color: #d9b77b; 
+}
