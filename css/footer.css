@@ -1,0 +1,32 @@
+section {
+    background-color: white;
+    
+} 
+.footer {
+    background-color: black;
+    color: white;
+    height: 6em;
+} 
+.address{
+    margin-top: -3em; 
+    margin-right: 5em;
+    font-size: .8em;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.5em;
+} 
+
+.phone{
+    margin-right: 5em;
+    font-size: .8em;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.5em;
+    } 
+
+.footer i{
+    padding-left: 1em;
+    color: goldenrod;
+} 

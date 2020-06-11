@@ -6,3 +6,5 @@
 -  [@akinsikuoluwafemi](https://github.com/akinsikuoluwafemi)
 
 -  [@EmmanuelOluwafemi](https://github.com/EmmanuelOluwafemi)
+
+-  [@egocious](https://github.com/egocious)
