@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    margin: 0;
+
+}
+.top {
+    width: 100vw;
+    height: 90vh;
+    margin-top: 9px;
+    background-image: url("img/unsplash-bedroom-windows-olexandr-ignatov.jpg");
+}
+.navbar {
+    padding: 0px;
+    margin: 0;
+}
+.text-container {
+    color: #ddc293;
+    border: 3px solid #d9b77b;
+    border-radius: 12px;
+    position: relative;
+    width: 50%;
+    margin: 0 auto;
+    bottom: 5em;
+    z-index: 4;
+    text-align: center;
+    background-color: #fff;
+    
+}
+footer ul{
+    list-style: none;
+}
+.footer-last {
+    background-color: #192027;
+    padding: 10px 0;
+    color: #fff;
+}
